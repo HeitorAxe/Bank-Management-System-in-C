@@ -118,7 +118,7 @@ int main(){
                     while (cont == 'y')
                     {
                         printf("\n");
-                        printf("-=-=-=-=-=-=WELCOM TO THE BANK=-=-=-=-=-=-\n");
+                        printf("-=-=-=-=-=-=WELCOME TO THE BANK=-=-=-=-=-=-\n");
                         printf("\n");
                         system("cls");
                         printf("\nSelect an option: ");
